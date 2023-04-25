@@ -1,0 +1,21 @@
+.content h2{    
+    font-weight: 400;
+}
+
+
+
+.content{
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    margin-top: 50px;
+}
+
+.image{
+text-align: center;
+}
+
+
+footer{
+    margin-top: 203px;
+}
